@@ -1,0 +1,34 @@
+{
+    "name": "Achromatomaly Theme",
+    "firstLevelElements": {
+        "background": "Light Gray (#D3D3D3)",
+        "text": "Black (#000000)",
+        "links": "Gray (#808080)",
+        "buttons": "Dark Gray (#333333)",
+        "accents": "Light Gray (#D3D3D3)"
+    },
+    "secondLevelElements": {
+        "background": "Light Gray (#D3D3D3)",
+        "text": "Black (#000000)",
+        "links": "Gray (#808080)",
+        "buttons": "Dark Gray (#333333)",
+        "accents": "Light Gray (#D3D3D3)"
+    },
+    "thirdLevelElements": {
+        "background": "Light Gray (#D3D3D3)",
+        "text": "Black (#000000)",
+        "links": "Gray (#808080)",
+        "buttons": "Dark Gray (#333333)",
+        "accents": "Light Gray (#D3D3D3)"
+    },
+    "fourthLevelElements": {
+        "background": "Light Gray (#D3D3D3)",
+        "text": "Black (#000000)",
+        "links": "Gray (#808080)",
+        "buttons": "Dark Gray (#333333)",
+        "accents": "Light Gray (#D3D3D3)"
+    },
+    "background": "Light Gray (#D3D3D3)",
+    "secondaryBackground": "White (#FFFFFF)",
+    "tableAccent": "Gray (#808080)"
+}

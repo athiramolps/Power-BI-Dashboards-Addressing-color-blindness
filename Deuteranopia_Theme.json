@@ -1,0 +1,34 @@
+{
+    "name": "Deuteranopia Theme",
+    "firstLevelElements": {
+        "background": "Gray (#808080)",
+        "text": "Black (#000000)",
+        "links": "Blue (#0000FF)",
+        "buttons": "Orange (#FFA500)",
+        "accents": "Gray (#808080)"
+    },
+    "secondLevelElements": {
+        "background": "Gray (#808080)",
+        "text": "Black (#000000)",
+        "links": "Blue (#0000FF)",
+        "buttons": "Orange (#FFA500)",
+        "accents": "Gray (#808080)"
+    },
+    "thirdLevelElements": {
+        "background": "Gray (#808080)",
+        "text": "Black (#000000)",
+        "links": "Blue (#0000FF)",
+        "buttons": "Orange (#FFA500)",
+        "accents": "Gray (#808080)"
+    },
+    "fourthLevelElements": {
+        "background": "Gray (#808080)",
+        "text": "Black (#000000)",
+        "links": "Blue (#0000FF)",
+        "buttons": "Orange (#FFA500)",
+        "accents": "Gray (#808080)"
+    },
+    "background": "Light Gray (#D3D3D3)",
+    "secondaryBackground": "Dark Gray (#333333)",
+    "tableAccent": "Gray (#808080)"
+}
