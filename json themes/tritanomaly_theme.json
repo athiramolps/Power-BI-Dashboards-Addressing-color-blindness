@@ -1,0 +1,12 @@
+{
+    "name": "Tritanomaly Theme",
+    "dataColors": [
+        "#013644",
+        "#D02828",
+        "#F35D17",
+        "#F99F5E"
+    ],
+    "background": "#E9D6BE",
+    "secondaryBackground": "#F4F4F4",
+    "tableAccent": "#33A5FF"
+}
