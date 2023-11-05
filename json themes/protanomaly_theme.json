@@ -1,0 +1,12 @@
+{
+    "name": "Protanomaly Theme",
+    "dataColors": [
+        "#082045",
+        "#866128",
+        "#E1A60F",
+        "#F0D357"
+    ],
+    "background": "#E8E48C",
+    "secondaryBackground": "#F4F4F4",
+    "tableAccent": "#FF3333"
+}

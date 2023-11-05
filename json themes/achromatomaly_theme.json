@@ -1,0 +1,12 @@
+{
+    "name": "Achromatomaly Theme",
+    "dataColors": [
+        "#132935",
+        "#934444",
+        "#C18A50",
+        "#DDC18B"
+    ],
+    "background": "#EAEOCC",
+    "secondaryBackground": "#F4F4F4",
+    "tableAccent": "#666666"
+}

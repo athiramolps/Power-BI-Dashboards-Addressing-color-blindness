@@ -1,0 +1,12 @@
+{
+    "name": "Deuteranopia Theme",
+    "dataColors": [
+        "#0078A3",
+        "#FF5146",
+        "#F4F4F4",
+        "#333333"
+    ],
+    "background": "#FFFFFF",
+    "secondaryBackground": "#ECECEC",
+    "tableAccent": "#2D72C1"
+}

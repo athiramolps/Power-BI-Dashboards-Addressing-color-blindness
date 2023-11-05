@@ -1,0 +1,12 @@
+{
+    "name": "Deuteranomaly Theme",
+    "dataColors": [
+        "#0084B4",
+        "#E66E00",
+        "#F4F4F4",
+        "#333333"
+    ],
+    "background": "#FFFFFF",
+    "secondaryBackground": "#ECECEC",
+    "tableAccent": "#2D72C1"
+}
