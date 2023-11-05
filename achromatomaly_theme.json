@@ -1,10 +1,10 @@
 {
     "name": "Achromatomaly Theme",
-    "firstLevelElements": "#000000",
-    "secondLevelElements": "#FFFFFF",
-    "thirdLevelElements": "#CCCCCC",
-    "fourthLevelElements": "#333333",
-    "background": "#FFFFFF",
-    "secondaryBackground": "#E3E3E3",
-    "tableAccent": "#666666"
+    "firstLevelElements": "#333333",  // Dark gray for primary elements
+    "secondLevelElements": "#FFFFFF", // White for secondary elements
+    "thirdLevelElements": "#F4F4F4",  // Light gray background
+    "fourthLevelElements": "#333333",  // Dark gray for text
+    "background": "#FFFFFF",          // White background
+    "secondaryBackground": "#ECECEC", // Light gray secondary background
+    "tableAccent": "#666666"         // Gray accent color
 }
