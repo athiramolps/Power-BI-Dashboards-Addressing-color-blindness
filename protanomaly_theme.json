@@ -1,0 +1,10 @@
+{
+    "name": "Protanomaly Theme",
+    "firstLevelElements": "#FF6A00",
+    "secondLevelElements": "#2B2BFF",
+    "thirdLevelElements": "#F3F2F1",
+    "fourthLevelElements": "#333333",
+    "background": "#FFFFFF",
+    "secondaryBackground": "#E3E3E3",
+    "tableAccent": "#FF3333"
+}
